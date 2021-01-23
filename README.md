@@ -4,7 +4,7 @@
 
 
 # Installation
-* Put in [esx] or any resources directory
+* Put in [esx] or any FiveM resources directory
 * Add this in your server.cfg :
 
 ```start n4yr_phflag```
