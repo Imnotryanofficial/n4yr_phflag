@@ -1,6 +1,6 @@
 # n4yr_phflag
 
-# [Screenshot] (https://i.imgur.com/mdZd7RE.png)
+[Screenshot] (https://i.imgur.com/mdZd7RE.png)
 
 
 # Download & Installation
