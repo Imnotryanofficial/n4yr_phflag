@@ -1,4 +1,4 @@
-# Philippine Flag script (for FiveM)
+# Philippine flag script (for FiveM)
 
 ## [Screenshot](https://i.imgur.com/mdZd7RE.png)
 
